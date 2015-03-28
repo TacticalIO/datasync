@@ -1,0 +1,20 @@
+{
+  "name": "datasync",
+  "version": "0.9.23",
+  "author": "Victor Andritoiu <devandrito@gmail.com>",
+  "description": "TacticalIO software interface",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vandrito/TacticalIO.git"
+  },
+  "main": "./index",
+  "dependencies": {
+    "debug": "^2.1.0",
+    "mqtt": "^0.3.12",
+    "my-ip": "^1.1.1"
+  },
+  "license": "Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+  "engines": {
+    "node": ">=0.10.x"
+  }
+}
